@@ -6,3 +6,5 @@
 Hello World + WireGuard + FTP服务器 + Argon主题 + （网络唤醒主机） + （DNS Over HTTPS）
 
 1.准备上传配置文件 2021/06/15
+
+因为没有时间，项目无限期搁置
