@@ -1,10 +1,8 @@
 # 小胖的XiaoMi Wifi MINI的定制固件
 
-目前进展：测试Github Actions
+修改登录界面的 CSS 样式文件可以在下面两个路径进行修改
 
-项目最终成果：
-Hello World + WireGuard + FTP服务器 + Argon主题 + （网络唤醒主机） + （DNS Over HTTPS）
-
-1.准备上传配置文件 2021/06/15
-
-因为没有时间，项目无限期搁置
+```
+./feeds/small8/luci-theme-argonne/htdocs/luci-static/argonne/css/cascade.css
+./feeds/kenzo/luci-theme-argonne/htdocs/luci-static/argonne/css/cascade.css
+```
