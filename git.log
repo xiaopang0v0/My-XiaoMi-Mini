@@ -1,0 +1,5 @@
+commit 922d471d2128617872383934360a69bc6e79c36a (HEAD)
+Author: coolsnowwolf <coolsnowwolf@gmail.com>
+Date:   Thu Jul 22 17:42:31 2021 +0800
+
+    qca-nss-crypto: add PKG_MIRROR_HASH
